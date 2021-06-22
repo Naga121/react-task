@@ -1,0 +1,19 @@
+.tbl{
+
+    border: 2px solid;
+     border: none;
+     outline: none;
+    width: 60%;
+    margin-top:15%;
+    margin-left: 20%;
+   padding: 50px;
+   box-shadow: 20px 10px 20px 20px rgb(240, 236, 243);
+}
+.input{
+    padding: 10px;
+    margin: 10px;
+    width: 90%;
+    border-radius: 10px;
+    outline: none;
+
+}
